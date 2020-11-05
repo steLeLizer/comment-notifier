@@ -1,0 +1,23 @@
+{
+  "name": "comment-notifier",
+  "version": "1.0.0",
+  "description": "IGP job application task v2",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steLeLizer/comment-notifier.git"
+  },
+  "author": "Stefan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steLeLizer/comment-notifier/issues"
+  },
+  "homepage": "https://github.com/steLeLizer/comment-notifier#readme",
+  "dependencies": {
+    "kafkajs": "^1.14.0"
+  }
+}
