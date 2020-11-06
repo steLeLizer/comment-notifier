@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/steLeLizer/comment-notifier#readme",
   "dependencies": {
-    "kafkajs": "^1.14.0"
+    "kafkajs": "^1.14.0",
+    "request": "^2.88.2"
   }
 }

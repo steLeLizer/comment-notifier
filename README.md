@@ -1,2 +1,1 @@
-# comment-notifier
-IGP job application task v2
+Run command "npm start" while in "comment-notifier" directory to start the micro-service app.
