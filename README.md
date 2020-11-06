@@ -1,1 +1,4 @@
-Run command "npm start" (or "nodemon app.js" if you have nodemon installed globally) while in "comment-notifier" directory to start the micro-service app. (Make sure kafka is running locally)
+Run "npm i" while in "comment-notifier/" directory to install dependencies.
+
+Run command "npm start" (or "nodemon app.js" if you have nodemon installed globally) while in "comment-notifier/" directory to start the micro-service app.
+(Make sure kafka is running locally)
